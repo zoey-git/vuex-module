@@ -1,4 +1,4 @@
-# vuedemo
+# vuex-module
 
 ## Project setup
 ```
